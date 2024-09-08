@@ -2,3 +2,4 @@ Rencana Kelas
  - Straight A semester ini
  - Rajin Bertanya
  - Belajar Flutter
+ - Perdalam Pernapasan
