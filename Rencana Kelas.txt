@@ -1,5 +1,6 @@
 Rencana Kelas
- - Straight A semester ini
+
  - Rajin Bertanya
  - Belajar Flutter
+ ^ Belajar Swift
  - Perdalam Pernapasan
